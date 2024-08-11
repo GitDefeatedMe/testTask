@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  testTask.vcxproj -> D:\all_for_lab\росатом\result\sln\x64\Debug\testTask.exe
+  LINK : не найден или не выполнена сборка D:\all_for_lab\росатом\repo\testTask\sln\x64\Debug\testTask.exe при последней инкрементной компоновке; выполняется полная компоновка
+  testTask.vcxproj -> D:\all_for_lab\росатом\repo\testTask\sln\x64\Debug\testTask.exe
